@@ -1,4 +1,4 @@
-# AnirudhKaushik_1221155884_HW4
+# AnirudhKaushik_HW4
 
 2 party privacy preserving Logistic Regression in C++ using ABY library : https://github.com/encryptogroup/ABY
 
